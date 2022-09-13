@@ -45,7 +45,8 @@ class BinaryTree
     }
     
     //Default Constructor
-    BinaryTree() {
+    BinaryTree() 
+    {
         root = null;
     }
 }
